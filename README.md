@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security and Data Science.<br>🤝 I’m looking for help with to found my internship.<br>🌱 I’m currently learning Full- Stack Development and Network skills.<br>💬 Ask me about my projects and work or anything else.<br>
+🔭 I’m currently working on Cyber Security and Data Science.<br>🌱 I’m currently learning Full- Stack Development and Network skills.<br>💬 Ask me about my projects and work or anything else.<br>
 
 
 ## 🌐 Socials:
